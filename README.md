@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://github.com/ManfredChristoph"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ManfredChristoph?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/manfred-christoph-asare-202557263/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat"></a>
+  <a href="https://www.linkedin.com/in/manfred-christoph-obeng-asare-202557263/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat"></a>
   <a href="mailto:asare1obeng@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-orange?style=flat"></a>
 </p>
 
@@ -82,7 +82,7 @@ I want to work on:
 <p>
   <strong>📄 Resume:</strong> Coming soon.<br>
   <strong>✉️ Email:</strong> <a href="mailto:asare1obeng@gmail.com">asare1obeng@gmail.com</a><br>
-  <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/manfred-christoph-asare-202557263/">Connect</a><br>
+  <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/manfred-christoph-obeng-asare-202557263/">Connect</a><br>
   <strong>💻 GitHub:</strong> <a href="https://github.com/ManfredChristoph">ManfredChristoph</a>
 </p>
 
