@@ -1,6 +1,6 @@
 <!-- Minimal Elegant Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManfredChristoph/ManfredChristoph/main/assets/banner.png" alt="Manfred Christoph Asare — Backend Software Engineer" width="100%">
+  <img src="https://github.com/ManfredChristoph/ManfredChristoph/blob/main/banner.png" alt="Manfred Christoph Asare — Backend Software Engineer" width="100%">
 </p>
 
 # Hi — I'm Manfred Christoph Asare 👋  
