@@ -1,6 +1,6 @@
 # Hi — I'm Manfred Christoph Asare 👋  
 <p>
-  <strong>cloud Engineering learner</strong> • designing systems that empower communities and drive meaningful change across health, agriculture, and fintech in Africa.
+  <strong>Cloud Engineering learner</strong> • designing systems that empower communities and drive meaningful change across health, agriculture, and fintech in Africa.
 </p>
 
 <p align="left">
