@@ -1,11 +1,11 @@
 <!-- Minimal Elegant Banner -->
 <p align="center">
-  <img src="https://github.com/ManfredChristoph/ManfredChristoph/blob/main/banner.png" alt="Manfred Christoph Asare — Backend Software Engineer" width="100%">
+  <img src="https://github.com/ManfredChristoph/ManfredChristoph/blob/main/banner.png" alt="Manfred Christoph Asare — Cloud Engineer" width="100%">
 </p>
 
 # Hi — I'm Manfred Christoph Asare 👋  
 <p>
-  <strong>ALX Backend Software Engineering learner</strong> • designing systems that empower communities and drive meaningful change across health, agriculture, and fintech in Africa.
+  <strong>cloud Engineering learner</strong> • designing systems that empower communities and drive meaningful change across health, agriculture, and fintech in Africa.
 </p>
 
 <p align="left">
@@ -29,7 +29,7 @@
 <details>
   <summary><strong>More about my background</strong></summary>
 
-  - 🎓 ALX Backend Software Engineering learner (in progress, expected Feb 2026)  
+  - 🎓 Cloud Engineering learner (in progress, expected July 2027)  
   - 💼 Project Engineer managing district hospital constructions across Ghana  
   - 👨‍👩‍👧 Husband and father — family inspires my drive to build responsibly and meaningfully  
   - 🌍 Based in Accra, Ghana  
@@ -89,7 +89,7 @@ I want to work on:
 ---
 
 # Open To
-- Full-time backend or cloud engineering roles (remote or hybrid)  
+- Cloud engineering roles (remote or hybrid)  
 - Impact-driven collaborations in healthtech, agritech, or fintech  
 - Mentorship and cross-disciplinary projects that blend engineering, empathy, and impact  
 
