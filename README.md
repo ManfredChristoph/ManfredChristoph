@@ -14,7 +14,7 @@
 # About Me
 <div>
   <p>
-    I am a compassionate and visionary individual driven by empathy, imagination, and purpose. My journey began in biomedical science, evolved through managing hospital construction projects, and now finds expression in backend software engineering. I see technology as a bridge to close the gaps in Africa’s healthcare, agricultural, and fintech infrastructures.
+    I am a compassionate and visionary individual driven by empathy, imagination, and purpose. My journey began in biomedical science, evolved through managing hospital construction projects, and now finds expression in cloud engineering. I see technology as a bridge to close the gaps in Africa’s healthcare, agricultural, and fintech infrastructures.
   </p>
   <p>
     Guided by intention, I seek wisdom, growth, and excellence—creating systems that heal, empower, and leave a lasting impact on society. I build not just with code, but with care, creativity, and a commitment to serve.
@@ -28,7 +28,7 @@
   - 💼 Project Engineer managing district hospital constructions across Ghana  
   - 👨‍👩‍👧 Husband and father — family inspires my drive to build responsibly and meaningfully  
   - 🌍 Based in Accra, Ghana  
-  - ❤️ Passionate about: backend systems, healthtech, agritech, and fintech innovations  
+  - ❤️ Passionate about: Cloud systems and infrastructure, healthtech, agritech, and fintech innovations  
   - ⚡ Core traits: empathy · imagination · humility · growth mindset · integrity
 </details>
 
@@ -43,20 +43,20 @@
 I want to work on:
 - Scalable backend solutions that solve real-world problems in **healthtech**, **agritech**, and **fintech**.  
 - Cloud-powered systems that **support smallholder farmers**, **improve hospital operations**, and **enhance access to digital finance**.  
-- Collaborative projects that merge **AI, big data, and backend engineering** to deliver meaningful, sustainable impact.
+- Collaborative projects that merge **AI, big data, and cloud engineering** to deliver meaningful, sustainable impact.
 
 ---
 
 # Featured Projects
 <p>
-  <em>🚀 I’m currently developing my first major backend project — I’ll be updating this section soon with full details, documentation, and live demos.</em>
+  <em>🚀I’ll be updating this section soon with full details, documentation, and live demos.</em>
 </p>
 
 ---
 
 # Skills & Tools
-<p><strong>Languages:</strong> Python · JavaScript (Node.js) · SQL</p>
-<p><strong>Backend Frameworks:</strong> FastAPI · Express.js</p>
+<p><strong>Languages:</strong> Python · SQL</p>
+<p><strong>Backend Frameworks:</strong> FastAPI</p>
 <p><strong>Databases:</strong> PostgreSQL · Redis</p>
 <p><strong>DevOps / Cloud:</strong> Docker · GitHub Actions · Google Cloud · Nginx</p>
 <p><strong>Testing:</strong> pytest · unittest</p>
