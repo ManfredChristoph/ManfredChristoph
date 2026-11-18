@@ -1,8 +1,3 @@
-<!-- Minimal Elegant Banner -->
-<p align="center">
-  <img src="https://github.com/ManfredChristoph/ManfredChristoph/blob/main/banner.png" alt="Manfred Christoph Asare — Cloud Engineer" width="100%">
-</p>
-
 # Hi — I'm Manfred Christoph Asare 👋  
 <p>
   <strong>cloud Engineering learner</strong> • designing systems that empower communities and drive meaningful change across health, agriculture, and fintech in Africa.
